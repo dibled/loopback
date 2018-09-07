@@ -96,12 +96,14 @@
     "loopback-context": "^1.0.0",
     "mocha": "^5.2.0",
     "nyc": "^10.1.2",
-    "phantomjs-prebuilt": "^2.1.7",
     "sinon": "^6.1.4",
     "sinon-chai": "^3.2.0",
     "strong-error-handler": "^3.0.0",
     "strong-task-emitter": "^0.0.8",
     "supertest": "^3.0.0"
+  },
+  "optionalDependencies": {
+    "phantomjs-prebuilt": "^2.1.7"
   },
   "repository": {
     "type": "git",
