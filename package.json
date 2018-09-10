@@ -82,6 +82,7 @@
     "grunt-eslint": "^21.0.0",
     "grunt-karma": "^2.0.0",
     "grunt-mocha-test": "^0.13.3",
+    "grunt-run": "^0.8.1",
     "karma": "^1.1.2",
     "karma-browserify": "^5.1.1",
     "karma-chrome-launcher": "^1.0.1",
@@ -90,7 +91,6 @@
     "karma-html2js-preprocessor": "^1.0.0",
     "karma-junit-reporter": "~1.0.0",
     "karma-mocha": "^1.1.1",
-    "karma-phantomjs-launcher": "^1.0.0",
     "karma-script-launcher": "^1.0.0",
     "loopback-boot": "^2.7.0",
     "loopback-context": "^1.0.0",
@@ -101,9 +101,6 @@
     "strong-error-handler": "^3.0.0",
     "strong-task-emitter": "^0.0.8",
     "supertest": "^3.0.0"
-  },
-  "optionalDependencies": {
-    "phantomjs-prebuilt": "^2.1.7"
   },
   "repository": {
     "type": "git",
